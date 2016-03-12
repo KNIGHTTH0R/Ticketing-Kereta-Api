@@ -33,10 +33,9 @@ public class Gerbong {
             return maxKursi;
 	} 
        
-    public String toString(){
-    return "Nama Gerbong : "+getNamaGerbong()+" dengan sisa kursi "+getMaxKursi();
-            
-    } 
+    	public String toString(){
+    	     return "Nama Gerbong : "+getNamaGerbong()+" dengan sisa kursi "+getMaxKursi();
+        } 
                 
                 
           
